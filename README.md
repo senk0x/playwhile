@@ -14,7 +14,7 @@ Not short enough to stay focused.
 Scrolling соцсети or opening YouTube would instantly kill the flow.
 But doing nothing felt even worse.
 
-So I made **PlayWhile** — a tiny floating arcade that sits on top of everything
+So I made **PlayWhile** - a tiny floating arcade that sits on top of everything
 and lets you play quick games *without leaving what you’re doing*.
 
 Now I use it constantly:
@@ -42,11 +42,11 @@ No app switching. No context loss. No distractions.
 
 ## Games included
 
-* **Floaty Bird** — flap through pipes
-* **Snake** — eat, grow, don't die
-* **Tetris** — stack and clear lines
-* **Minesweeper** — find and flag mines
-* **Sudoku** — classic 9×9 puzzle
+* **Floaty Bird** - flap through pipes
+* **Snake** - eat, grow, don't die
+* **Tetris** - stack and clear lines
+* **Minesweeper** - find and flag mines
+* **Sudoku** - classic 9×9 puzzle
 
 All games are designed for **quick sessions** — play for 30 seconds, close, continue working.
 
@@ -67,7 +67,7 @@ PlayWhile gives you:
 * no context switching
 * no productivity guilt spiral
 
-It’s like fidgeting — but actually fun.
+It’s like fidgeting - but actually fun.
 
 ---
 
@@ -159,7 +159,7 @@ All action games:
 
 This app is built around one idea:
 
-> **Don’t break focus — just fill the gaps.**
+> **Don’t break focus - just fill the gaps.**
 
 It’s not meant to replace your work.
 It’s meant to make the waiting parts less painful.
