@@ -1,4 +1,4 @@
-# PlayWhile — Floating arcade for macOS (the best tool for coders with ADHD)
+# PlayWhile - Floating arcade for macOS (the best tool for coders with ADHD)
 
 <img width="400" height="220" alt="recording_edited (1)" src="https://github.com/user-attachments/assets/146acecb-90ca-4e79-bea9-1772e3bcd3ce" />
 
@@ -11,7 +11,7 @@ you ask an LLM to generate something… and then you just sit there waiting.
 Not long enough to switch tasks.
 Not short enough to stay focused.
 
-Scrolling соцсети or opening YouTube would instantly kill the flow.
+Scrolling social networks or opening YouTube would instantly kill the flow.
 But doing nothing felt even worse.
 
 So I made **PlayWhile** - a tiny floating arcade that sits on top of everything
